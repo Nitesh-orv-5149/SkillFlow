@@ -10,7 +10,7 @@ export default function SubSkillNode({ title, icon: Icon } : { title: string, ic
           {Icon ? (
             <Icon size={24} className="text-white drop-shadow-lg" />
           ) : (
-            <span className="text-white font-bold text-xl drop-shadow-lg">{title}</span>
+            <span className="text-white font-bold text-xl drop-shadow-lg capitalize">{title}</span>
           )}
         </div>
       </div>

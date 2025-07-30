@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function roadmapsPage() {
 
-    const roadmaps = ["Webdev", "Ai-Ml", "Python"];
+    const roadmaps = ["webdev", "ai-ml", "python"];
 
     return (
         <main className="min-h-screen w-full flex flex-col items-center justify-start p-4">
