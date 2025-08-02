@@ -1,4 +1,3 @@
-// WebDevRoadmap.js
 import SubSkillNode from '@/components/ui/SubSkillNode';
 import { ArrowRight } from 'lucide-react';
 import Link from 'next/link';
